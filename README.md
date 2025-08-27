@@ -1,2 +1,1 @@
-# webhook_for_flighthub_sync
-"This project, originally for SoftBank, involved connecting to FlightHub 2 to receive drone data via a webhook. This allowed me to automate missions, download media, and access live streams. I hope it helps you.
+Hello everyone, I hope you are well, this project is from a job I did for SoftBank, to avoid problems, I will limit sensitive data, I tried to connect to FlightHub 2 using Flighthub Sync, then, I needed a webhook capable of obtaining the json that FlightHub sends me, in this json, it has all the necessary parameters to program each task or mission that the Drone must do, and download the media and retransmit the Stream that the drone does and/or be able to access its camera, I hope it helps you.
