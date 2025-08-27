@@ -3,15 +3,11 @@ Hello everyone, I hope you are well, this project is from a job I did for SoftBa
 So before you start, you need to download and install the following applications, extensions and components:
 
 ****VSCODE:						https://code.visualstudio.com/
-
 ****NGINX Server en Windows: 	https://youtu.be/6_X53UwU7wM?si=N7jSL5GV_6q8rkWi
-								https://github.com/illuspas/nginx-rtmp-win32
-		
+								https://github.com/illuspas/nginx-rtmp-win3
 ****DOCKER:						https://www.docker.com/get-started/
-
 ****Python:						https://www.python.org/
-								pip install -r requirements.txt
-	
-****Node.js			https://nodejs.org/en/download
-***ngrok			https://ngrok.com/downloads/windows
-				register: https://dashboard.ngrok.com/get-started/setup/windows
+								pip install -r requirements.txt				
+****Node.js						https://nodejs.org/en/download
+***ngrok						https://ngrok.com/downloads/windows
+	register: 					https://dashboard.ngrok.com/get-started/setup/windows
