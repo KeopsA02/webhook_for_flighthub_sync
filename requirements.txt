@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+pynput
+pillow
+ttkbootstrap
+reportlab
+python-dotenv
+selenium
